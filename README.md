@@ -1,4 +1,3 @@
-
 # Astro-999
 Astro 999 is a discord bot made in Python with many functions. It has moderation commands and also some fun commands.
 
@@ -34,3 +33,19 @@ Astro 999 is a discord bot made in Python with many functions. It has moderation
 * kavinsjindal@gmail.com
 
 * Discord ID - KJ#7320
+# Development Info
+
+--> **Python Version :** Python 3.8.6
+
+--> **Discord.py Version :** 1.5.1
+
+--> **Hosting :** Heroku
+
+--> **Open Source :** No
+# [Suggestions and Inquiries](https://github.com/kavinjindal/Astro-999/issues)
+
+# Modules used
+[Python](https://www.python.org/)
+[Discord.py](https://discordpy.readthedocs.io/en/latest/)
+[JSON](https://www.json.org/)
+(Some other modules also used)
