@@ -11,6 +11,13 @@ Astro 999 is a discord bot made in Python with many functions. It has moderation
 
 # [Add Astro to your server](https://discord.com/api/oauth2/authorize?client_id=795861753627672607&permissions=0&scope=bot)
 
+# Update 1.1.0
+
+ --> New commands added
+
+`a!pass` to send 8 digit passwords generated to your dms
+
+`a!dice` a dice game with the bot
 
 # Prefix
 `a!`
