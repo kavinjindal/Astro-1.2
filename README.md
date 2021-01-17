@@ -19,6 +19,7 @@ Astro 999 is a discord bot made in Python with many functions. It has moderation
 
 `a!dice` a dice game with the bot
 
+-->Removed the `a!spank` command as it was offensive to some people.
 # Prefix
 `a!`
 
