@@ -1,4 +1,4 @@
-<img src = "https://cdn.discordapp.com/attachments/795927343453306901/795927467516231710/alien-first-contact-cartoon-vector-concept-with-astronaut-futuristic-spacesuit-reaching-hand-e_1441-.jpg" align="right" height="200" width="200">
+<img src = "https://cdn.discordapp.com/attachments/794184757499527189/802411753568337970/invert.png" align="right" height="200" width="200">
 
 # Astro-999
  
@@ -11,15 +11,53 @@ Astro 999 is a discord bot made in Python with many functions. It has moderation
 
 # [Add Astro to your server](https://discord.com/api/oauth2/authorize?client_id=795861753627672607&permissions=0&scope=bot)
 
-# Update 1.1.0
+# Update 1.2.0
 
- --> New commands added
+**New Avatar**
 
-`a!pass` to send 8 digit passwords generated to your dms
+--> Updated the icon of the Bot
 
-`a!dice` a dice game with the bot
+ --> New Economy Feature Added
 
--->Removed the `a!spank` command as it was offensive to some people.
+Added the new **Economy** feature. You can earn money and also buy things from shop. 
+
+--> Commands
+
+**Note : Each Command has a 10 seconds cooldown**
+
+* `a!bal`
+* `a!shop`
+* `a!buy [item_name] [amount]`
+* `a!give [@user] [amount from bank]`
+* `a!withd [amount], a!dep [amount]`
+* `a!beg`
+
+**More Fun Commands**
+
+* `a!fsociety`
+* `a!bruh`
+* `a!pw`
+* `a!toss`
+
+**Meta Commands(Beta)** 
+* `a!guild` - shows guild info
+* `a!av` - shows user info
+
+**Bot Commands**
+* `a!support`
+* `a!github`
+
+# More additions : 
+
+--> Updated Statistics commands
+
+--> Added error handlings and error logs
+
+--> Changed Hosting from [Heroku](https://www.heroku.com/) to [Repl.it](https://repl.it/)
+
+--> Added command cooldowns
+
+
 # Prefix
 `a!`
 
@@ -38,7 +76,7 @@ Astro 999 is a discord bot made in Python with many functions. It has moderation
 
 **Bot Commands**
 
---> `a!uptime, a!stats. a!info, a!add`
+--> `a!uptime, a!stats. a!info, a!add, a!github, a!support`
 
 **Dev Info**
 
