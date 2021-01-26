@@ -1,4 +1,4 @@
-<img src = "https://cdn.discordapp.com/attachments/794184757499527189/802411753568337970/invert.png" align="right" height="200" width="200">
+<img src = "https://cdn.discordapp.com/attachments/800269388372508692/803553437252845598/invert.png" align="right" height="200" width="200">
 
 # Astro-999
  
