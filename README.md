@@ -1,25 +1,27 @@
 <img src = "https://cdn.discordapp.com/attachments/800269388372508692/803553437252845598/invert.png" align="right" height="200" width="200">
 
-# Astro-999
+# Astro-1.3
  
 # [Astro Support](https://discord.gg/JaekSMuje9)
 
  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/kavinjindal/Astro-999?style=for-the-badge)
 
 
-Astro 999 is a discord bot made in Python with many functions. It has moderation commands and also some fun commands.
+Astro 1.3 is a discord bot made in Python with many functions. It has moderation commands and also some fun commands.
 
 # [Add Astro to your server](https://discord.com/api/oauth2/authorize?client_id=795861753627672607&permissions=0&scope=bot)
 
-# Update 1.2.0
+# Update 1.3.0
 
-**New Avatar**
-
---> Updated the icon of the Bot
-
- --> New Economy Feature Added
-
-Added the new **Economy** feature. You can earn money and also buy things from shop. 
+--> Cooldowns on Economy command added
+--> Error handling updated
+--> Error logs added
+--> a!work command added
+--> a!daily command added
+--> a!leaderboard command added
+--> Help for all commands added
+--> Cooldowns updated
+--> Bot added on Top.GG
 
 --> Commands
 
