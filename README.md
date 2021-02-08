@@ -14,13 +14,21 @@ Astro 1.3 is a discord bot made in Python with many functions. It has moderation
 # Update 1.3.0
 
 --> Cooldowns on Economy command added
+
 --> Error handling updated
+
 --> Error logs added
+
 --> a!work command added
+
 --> a!daily command added
+
 --> a!leaderboard command added
+
 --> Help for all commands added
+
 --> Cooldowns updated
+
 --> Bot added on Top.GG
 
 --> Commands
