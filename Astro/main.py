@@ -38,4 +38,4 @@ for filename in os.listdir('./cogs'):
 
 keep_alive.keep_alive()
 
-client.run('Nzk1ODYxNzUzNjI3NjcyNjA3.X_PiBA.xPs81x5N-DBEwwdQBtdSJ9AqoT8')
+client.run(' ')
