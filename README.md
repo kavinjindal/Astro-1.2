@@ -1,6 +1,6 @@
 <img src = "https://cdn.discordapp.com/attachments/800269388372508692/803553437252845598/invert.png" align="right" height="200" width="200">
 
-# Astro-1.3
+# Astro-1.4
  
 # [Astro Support](https://discord.gg/JaekSMuje9)
 
@@ -11,27 +11,12 @@ Astro 1.3 is a discord bot made in Python with many functions. It has moderation
 
 # [Add Astro to your server](https://discord.com/api/oauth2/authorize?client_id=795861753627672607&permissions=0&scope=bot)
 
-# Update 1.3.0
+# Update 1.4.0
 
---> Cooldowns on Economy command added
+--> New `a!hack` command added
 
---> Error handling updated
+--> Fixed Bugs and Indents
 
---> Error logs added
-
---> a!work command added
-
---> a!daily command added
-
---> a!leaderboard command added
-
---> Help for all commands added
-
---> Cooldowns updated
-
---> Bot added on Top.GG
-
---> Commands
 
 **Note : Each Command has a 10 seconds cooldown**
 
