@@ -17,6 +17,7 @@ Astro is a discord bot made in Python with many functions. It has moderation com
 
 --> Fixed Bugs and Indents
 
+--> Added `a!website` command
 
 **Note : Each Command has a 10 seconds cooldown**
 
