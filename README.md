@@ -100,11 +100,11 @@ Astro is a discord bot made in Python with many functions. It has moderation com
 
 --> **Discord.py Version :** 1.5.1
 
---> **Hosting :** Heroku
+--> **Hosting :** Repl.it and UptimeRobot
 
 --> **Open Source :** No
 
-# [Suggestions and Inquiries](https://github.com/kavinjindal/Astro-999/issues)
+# [Suggestions and Inquiries](https://github.com/kavinjindal/Astro-1-4/issues)
 
 # Modules used
 
