@@ -104,7 +104,7 @@ Astro is a discord bot made in Python with many functions. It has moderation com
 
 --> **Open Source :** No
 
-# [Suggestions and Inquiries](https://github.com/kavinjindal/Astro-1-4/issues)
+# [Suggestions and Inquiries](https://github.com/Astro-1-4/Astro-1.4/issues)
 
 # Modules used
 
