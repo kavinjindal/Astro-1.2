@@ -1,15 +1,20 @@
-<img src = "https://cdn.discordapp.com/attachments/800269388372508692/803553437252845598/invert.png" align="right" height="200" width="200">
+<img src = "https://cdn.discordapp.com/attachments/848440991546998814/848441041589108756/206-2063052_bruh-cartoon-hd-png-download.png" align="right" height="200" width="200">
 
-# Astro-1.4
+# Bruh Bot v2
  
 # [Astro Support](https://discord.gg/JaekSMuje9)
 
  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/kavinjindal/Astro-999?style=for-the-badge)
 
 
-Astro is a discord bot made in Python with many functions. It has moderation commands and also some fun commands.
+Bruh Bot is a discord bot made in Python with many functions. It has moderation commands and also some fun commands.
 
 # [Add Astro to your server](https://discord.com/api/oauth2/authorize?client_id=795861753627672607&permissions=0&scope=bot)
+
+# Bruh Bot remastered
+
+--> Astro has been renamed to Bruh Bot v2. Major reconstruction is being done in the bot and it's features. The source of the bot is no more kept open to the public. 
+Updates will be revealed once the work on the bot is over. 
 
 # Update 1.4.2
 
