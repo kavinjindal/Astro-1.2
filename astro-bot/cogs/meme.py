@@ -18,11 +18,11 @@ import platform
 import asyncio
 from datetime import datetime
 
-reddit = praw.Reddit(client_id = "3q63UFvTo37o7g", 
-                    client_secret = 'zdMd1AFE1gZXlUNA4gaoO71mrRLUYA', 
-                    username = 'Freezee17',
-                    password = 'kjsupremo', 
-                    user_agent = 'memepraw')
+reddit = praw.Reddit(client_id = "", 
+                    client_secret = '', 
+                    username = '',
+                    password = '', 
+                    user_agent = '')
 class meme(commands.Cog):
     def __init__(self, client):
         self.client = client
